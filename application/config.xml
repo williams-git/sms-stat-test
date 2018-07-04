@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+	<db>
+	        <type>PDO_PGSQL</type>
+	        <host>localhost</host>
+	        <username>postgres</username>
+	        <password>p123p</password>
+	        <dbname>smsinfo</dbname>
+	        <encoding>utf8</encoding>
+	        <port>5432</port>
+	        <profiling>0</profiling>
+	</db>
+</config>

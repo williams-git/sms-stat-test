@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<list>
+		<routes>
+			<index>
+				<route>/</route>
+				<defaults>
+					<path></path>
+					<controller>index</controller>
+					<action>index</action>
+				</defaults>
+			</index>
+		</routes>
+	</list>
+</config>
